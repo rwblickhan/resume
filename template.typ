@@ -73,7 +73,7 @@
   education_section
 }
 
-#let experience_item(organization, role, time_frame, body) = {
+#let experience_item(organization, role, timeframe, body) = {
   set text(size: 12pt)
 
   block[
@@ -83,18 +83,23 @@
     }
     #box(width: 1fr)[
       #align(right)[
-        #time_frame
+        #timeframe
       ]
     ]
   ]
   body
 }
 
-#let personal_project_item(title, body) = {
+#let personal_project_item(title, timeframe, body) = {
   set text(size: 12pt)
 
   block[
     #text(weight: "bold")[#title]
+    #box(width: 1fr)[
+      #align(right)[
+        #timeframe
+      ]
+    ]
   ]
   body
 }

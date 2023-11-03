@@ -68,14 +68,19 @@
 #let linty = {
   personal_project_item(
     "Linty",
+    "Fall 2023",
   )[
     - Released Rust-based command-line tool for linting for regexes across a codebase
   ]
 }
 
 #let tag_search = {
-  personal_project_item("Obsidian Tag Search Plugin")[
-    - Built tag search plugin in TypeScript for Obsidian note-taking app
+  personal_project_item(
+    "Obsidian Tag Search Plugin",
+    "Spring 2023",
+  )[
+    - Published tag search plugin in TypeScript for Obsidian note-taking app, with a
+      few thousand users
   ]
 }
 
