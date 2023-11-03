@@ -17,6 +17,7 @@
     )[Individual Adoption | Senior Software Engineer (React / TypeScript)]
     - Worked across the stack to build various experimental features, like
       "recently online" indicators
+    - Worked closely with product and design to
     - Led three engineers to implement tabs in our Electron-based desktop app
     - Embedded with a sister webapp team to help a major initiative (Gantt views) meet
       deadlines
@@ -64,4 +65,18 @@
   ]
 }
 
-#resume([#asana #snowmobile #thinkbox #t2], none)
+#let linty = {
+  personal_project_item(
+    "Linty",
+  )[
+    - Released Rust-based command-line tool for linting for regexes across a codebase
+  ]
+}
+
+#let tag_search = {
+  personal_project_item("Obsidian Tag Search Plugin")[
+    - Built tag search plugin in TypeScript for Obsidian note-taking app
+  ]
+}
+
+#resume[#asana #snowmobile #thinkbox #t2][#linty #tag_search]

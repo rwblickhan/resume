@@ -19,11 +19,13 @@
       ]
 
       #set text(size: 11pt)
+      #text("San Francisco, CA")
+      |
       #text("628-230-8646")
       |
       #link("mailto:rwblickhan@gmail.com")[#text("rwblickhan@gmail.com")]
       |
-      #text("San Francisco, CA")
+      #link("https://rwblickhan.org")[#text("rwblickhan.org")]
     ]
   }
 
@@ -84,6 +86,15 @@
         #time_frame
       ]
     ]
+  ]
+  body
+}
+
+#let personal_project_item(title, body) = {
+  set text(size: 12pt)
+
+  block[
+    #text(weight: "bold")[#title]
   ]
   body
 }
