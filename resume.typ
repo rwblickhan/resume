@@ -79,8 +79,8 @@
     "Obsidian Tag Search Plugin",
     "Spring 2023",
   )[
-    - Published tag search plugin in TypeScript for Obsidian note-taking app, with a
-      few thousand users
+    - Published tag search plugin in TypeScript for Obsidian note-taking app, with
+      >2000 users
   ]
 }
 
