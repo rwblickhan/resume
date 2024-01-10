@@ -10,14 +10,12 @@
     #text(
       style: "italic",
     )[AI Experiences | Senior Software Engineer (React / TypeScript)]
-    - Contributed to Asana's first set of LLM-powered features by onboarding to prompt
-      engineering
+    - Took ownership of Smart Status, one of Asana's first LLM-powered features
     #text(
       style: "italic",
     )[Individual Adoption | Senior Software Engineer (React / TypeScript)]
     - Worked across the stack to build various experimental features, like
       "recently online" indicators
-    - Worked closely with product and design to
     - Led three engineers to implement tabs in our Electron-based desktop app
     - Embedded with a sister webapp team to help a major initiative (Gantt views) meet
       deadlines
