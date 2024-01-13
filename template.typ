@@ -90,6 +90,17 @@
   body
 }
 
+#let experience_subheader(role, timeframe) = {
+  block[
+    #text(style: "italic")[#role]
+    #box(width: 1fr)[
+      #align(right)[
+        #text(style: "italic")[#timeframe]
+      ]
+    ]
+  ]
+}
+
 #let personal_project_item(title, timeframe, body) = {
   set text(size: 12pt)
 

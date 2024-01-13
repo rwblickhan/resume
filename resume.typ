@@ -7,24 +7,17 @@
     "Jul 2019 - Present",
   )[
     #set list(indent: 1em)
-    #text(
-      style: "italic",
-    )[AI Experiences | Senior Software Engineer (React / TypeScript)]
+    #experience_subheader[Senior Software Engineer][Jan 2023 - Current]
     - Took ownership of Smart Status, one of Asana's first LLM-powered features
-    #text(
-      style: "italic",
-    )[Individual Adoption | Senior Software Engineer (React / TypeScript)]
-    - Worked across the stack to build various experimental features, like
-      "recently online" indicators
-    - Led three engineers to implement tabs in our Electron-based desktop app
-    - Embedded with a sister webapp team to help a major initiative (Gantt views) meet
-      deadlines
+    - Led initiative to add Chrome-style tabbed interface to our Electron/React-based
+      Desktop app
+    - Embedded on a sister team to unblock a major initiative to bring Gantt views to
+      the webapp
+    #experience_subheader[Software Engineer][Jul 2019 - Jan 2023]
+    - Worked across the stack to build experimental webapp features, like
+      "recently online" indicators or a revamped My Tasks view, as well as various
+      features across mobile platforms (iOS/Android/server)
     - Mentored two interns and an apprentice
-    #text(
-      style: "italic",
-    )[Mobile Communications | Software Engineer (iOS / Scala)]
-    - Led a team of three engineers to build inbox bookmarks based on my hackathon
-      project
     - Introduced monthly tech talks to an organization of 30 engineers
     - Managed mobile on-call and release processes
   ]
