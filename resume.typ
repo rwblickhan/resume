@@ -9,15 +9,20 @@
     #set list(indent: 1em)
     #experience_subheader[Senior Software Engineer][Jan 2023 - Current]
     - Took ownership of Smart Status, one of Asana's first LLM-powered features
-    - Led initiative to add Chrome-style tabbed interface to our Electron/React-based
+    - Led a team of 3 to add Chrome-style tabbed interface to our Electron/React-based
       Desktop app
     - Embedded on a sister team to unblock a major initiative to bring Gantt views to
-      the webapp
+      the webapp; recognized by team's manager as a model for other engineers due to
+      my high velocity
     #experience_subheader[Software Engineer][Jul 2019 - Jan 2023]
-    - Worked across the stack to build experimental webapp features, like
-      "recently online" indicators or a revamped My Tasks view, as well as various
-      features across mobile platforms (iOS/Android/server)
-    - Mentored two interns and an apprentice
+    - Worked across frontend (React), backend (TypeScript/Scala), and mobile
+      (iOS/Android) to build various experimental features, such as:
+      - "Recently online" indicators in profile pictures
+      - Unread task indicators in My Tasks
+      - Reorganized My Tasks view with new "group by due dates" feature
+      - Starred notifications in inbox
+
+    - Mentored two interns, both of whom accepted return offers, and an apprentice
     - Introduced monthly tech talks to an organization of 30 engineers
     - Managed mobile on-call and release processes
   ]

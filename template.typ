@@ -30,7 +30,7 @@
   }
 
   let education_item(organization, degree, time_frame) = {
-    set text(size: 12pt)
+    set text(size: 10pt)
 
     block[
       #text(weight: "bold")[#organization]
@@ -74,7 +74,7 @@
 }
 
 #let experience_item(organization, role, timeframe, body) = {
-  set text(size: 12pt)
+  set text(size: 10pt)
 
   block[
     #text(weight: "bold")[#organization]
@@ -102,7 +102,7 @@
 }
 
 #let personal_project_item(title, timeframe, body) = {
-  set text(size: 12pt)
+  set text(size: 10pt)
 
   block[
     #text(weight: "bold")[#title]
