@@ -9,14 +9,14 @@
     #set list(indent: 1em)
     #experience_subheader[Senior Software Engineer][Jan 2023 - Current]
     - Took ownership of Smart Status, one of Asana's first LLM-powered features,
-      working across frontend, backend, and prompt engineering; led two two other
-      engineers and a product manager to prototype cutting-edge RAG techniques to
+      working across frontend, backend, and prompt engineering; led two other
+      engineers and a product manager to prototype cutting-edge RAG techniques to\
       improve output
     - Led a team of three to add Chrome-style tabbed interface to Asana's
       Electron/React-based Desktop app
     - Embedded on a partner team to unblock a major initiative to bring Gantt views to
-      the webapp; recognized by team's manager as a model for other engineers due to
-      my high velocity
+      the webapp; recognized by team's manager as a model and mentor for other
+      engineers due to my high velocity
     #experience_subheader[Software Engineer][Jul 2019 - Jan 2023]
     - Worked across frontend (React), backend (TypeScript/Scala), and mobile
       (iOS/Android) to build features like:
