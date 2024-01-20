@@ -8,20 +8,22 @@
   )[
     #set list(indent: 1em)
     #experience_subheader[Senior Software Engineer][Jan 2023 - Current]
-    - Took ownership of Smart Status, one of Asana's first LLM-powered features
-    - Led a team of 3 to add Chrome-style tabbed interface to our Electron/React-based
-      Desktop app
-    - Embedded on a sister team to unblock a major initiative to bring Gantt views to
+    - Took ownership of Smart Status, one of Asana's first LLM-powered features,
+      working across frontend, backend, and prompt engineering; led two two other
+      engineers and a product manager to prototype cutting-edge RAG techniques to
+      improve output
+    - Led a team of three to add Chrome-style tabbed interface to Asana's
+      Electron/React-based Desktop app
+    - Embedded on a partner team to unblock a major initiative to bring Gantt views to
       the webapp; recognized by team's manager as a model for other engineers due to
       my high velocity
     #experience_subheader[Software Engineer][Jul 2019 - Jan 2023]
     - Worked across frontend (React), backend (TypeScript/Scala), and mobile
-      (iOS/Android) to build various experimental features, such as:
+      (iOS/Android) to build features like:
       - "Recently online" indicators in profile pictures
       - Unread task indicators in My Tasks
       - Reorganized My Tasks view with new "group by due dates" feature
       - Starred notifications in inbox
-
     - Mentored two interns, both of whom accepted return offers, and an apprentice
     - Introduced monthly tech talks to an organization of 30 engineers
     - Managed mobile on-call and release processes
@@ -65,6 +67,7 @@
   personal_project_item(
     "Linty",
     "Fall 2023",
+    "https://github.com/rwblickhan/linty",
   )[
     - Released Rust-based command-line tool for linting for regexes across a codebase
   ]
@@ -74,6 +77,7 @@
   personal_project_item(
     "Obsidian Tag Search Plugin",
     "Spring 2023",
+    "https://github.com/rwblickhan/obsidian-tag-search",
   )[
     - Published tag search plugin in TypeScript for Obsidian note-taking app, with
       >2000 users

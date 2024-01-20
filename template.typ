@@ -101,11 +101,12 @@
   ]
 }
 
-#let personal_project_item(title, timeframe, body) = {
+#let personal_project_item(title, timeframe, link_dest, body) = {
   set text(size: 10pt)
 
   block[
     #text(weight: "bold")[#title]
+    (#link(link_dest))
     #box(width: 1fr)[
       #align(right)[
         #timeframe
