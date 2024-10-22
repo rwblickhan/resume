@@ -9,7 +9,7 @@
 
   set text(font: "Charter", lang: "en")
 
-  show par: set block(above: 0.75em, below: 0.75em)
+  set par(spacing: 0.75em)
   set par(justify: true)
 
   let header = {
