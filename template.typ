@@ -51,7 +51,7 @@
     ][
       Bachelor of Science, Computer Science & Mathematics
     ][
-      2014-2019
+      2014 – 2019
     ]
   }
 
