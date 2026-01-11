@@ -8,11 +8,13 @@
   )[
     #set list(indent: 1em)
     #experience_subheader([Senior Software Engineer], none)
-    - In Descript's LLM-powered video editor agent, single-handedly implemented the Creative Brief planning mode
-      and led three-engineer initiative to add save-and-share template prompts flow
-    - Implemented Descript's new in-app homepage, which led to a 5% stat-sig increase in daily active users
-    - Ran pricing experimentation in collaboration with product, design, marketing, support, finance,
-      and another engineering team, resulting in a major shift in company pricing strategy
+    - In Descript's LLM-powered video editor agent, implemented the Creative Brief planning mode
+      and led three-engineer initiative to add save-and-share template prompts flow,
+      working across React frontend and TypeScript backend
+    - Led Descript's in-app homepage redesign, which led to a 5% stat-sig increase in daily active users
+    - Ran pricing experimentation across React-based webapp and Next-based marketing site,
+      working in close cross-functional collaboration with product, marketing, finance, and support,
+      resulting in a decision to completely revamp Descript's pricing structure
     - Served as go-to engineer for questions about Descript's integration with Braze, our main in-app marketing tool
   ]
 }
