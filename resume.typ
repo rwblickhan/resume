@@ -4,7 +4,7 @@
   experience_item(
     "Descript",
     none,
-    "Aug 2025 – Present",
+    "Aug 2024 – Present",
   )[
     #set list(indent: 1em)
     #experience_subheader([Senior Software Engineer], none)
@@ -23,7 +23,7 @@
   experience_item(
     "Asana",
     none,
-    "Jul 2019 – Jun 2025",
+    "Jul 2019 – Jun 2024",
   )[
     #set list(indent: 1em)
     #experience_subheader[Senior Software Engineer][Jan 2023 – Jun 2025]
