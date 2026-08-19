@@ -1,0 +1,3 @@
+[tasks.watch]
+alias = "w"
+run = "typst watch resume.typ"
