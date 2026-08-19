@@ -1,10 +1,22 @@
 #import "template.typ": *
 
+#let vanta = {
+  experience_item(
+    "Vanta",
+    none,
+    "Apr 2026 – Present",
+  )[
+    #set list(indent: 1em)
+    #experience_subheader([Senior Software Engineer], none)
+    - Led effort to integrate Vanta Agent with Snowflake-backed reporting surface
+  ]
+}
+
 #let descript = {
   experience_item(
     "Descript",
     none,
-    "Aug 2024 – Present",
+    "Aug 2024 – Mar 2026",
   )[
     #set list(indent: 1em)
     #experience_subheader([Senior Software Engineer], none)
@@ -81,4 +93,4 @@
   ]
 }
 
-#resume([#descript #asana #snowmobile #thinkbox #t2], none)
+#resume([#vanta #descript #asana #snowmobile #thinkbox #t2], none)
